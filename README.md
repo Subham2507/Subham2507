@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Subham2507/Subham2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @Subham2507
+- 👀 I’m interested in ML, DL and astronomy. 
+- 🌱 I’m currently learning web development.
+- 📫 How to reach me email - ghoshsubham2507@gmail.com
