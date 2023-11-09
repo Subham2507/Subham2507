@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/XAheli/XAheli/blob/main/ghibli.gif" />
+</div>
+<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines= নমস্কার + (Namaste) +🙏🏻+,+I'm+Aheli+!;I'm%20always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=82e2da&vCenter=true&pause=1000&size=22" /></a> </h1>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br>
+<p><em>Striving to become a better contributor &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+<br>
 - 👋 Hi, I’m @Subham2507 recently graduated from IIT MANDI with a major in Physics.
 - 👀 I’m interested in ML, Quantum and astronomy. 
 - 🌱 I’m currently learning Data Science.
