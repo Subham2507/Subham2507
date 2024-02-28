@@ -73,6 +73,9 @@ Here are some ideas to get you started:
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width="5%" height="5%">-->
 ## 📈 GitHub Stats
 
+![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subham2507&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subham2507&layout=compact&theme=radical)
 <!-- [![Subham's's GitHub Stats] -->
 
 
