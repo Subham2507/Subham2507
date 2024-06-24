@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 </em></p>
 
 
-- 👋 Hi, I’m @Subham2507 recently graduated from IIT MANDI with a major in Physics.
+- 👋 Hi, I’m @Subham2507 pursuing a Ph.D. in Data Science and AI at IIT Roorkee. Additionally, I am the co-founder and CTO of Eva Ad Ventures.
+- I graduated from IIT MANDI with a major in physics.
 - 👀 I’m interested in ML, Quantum and astronomy. 
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Open Source Projects!
