@@ -69,12 +69,7 @@ Here are some ideas to get you started:
 <!-- Using GitHub Stats Card (alternative service) -->
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subham2507&theme=radical)
 
-<!-- Using GitHubProfileStats -->
-![Stats](https://github-profile-trophy.vercel.app/?username=Subham2507&theme=radical)
 
-<!-- Using simple GitHub Stats -->
-[![Subham's GitHub stats](https://github-readme-stats-git-main-subham2507.vercel.app/api?username=Subham2507&show_icons=true&theme=radical)](https://github.com/subham2507)
-<!-- [![Subham's's GitHub Stats] -->
 
 
 <p align="center">
