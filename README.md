@@ -66,9 +66,14 @@ Here are some ideas to get you started:
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width="5%" height="5%">-->
 ## 📈 GitHub Stats
 
-![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subham2507&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<!-- Using GitHub Stats Card (alternative service) -->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subham2507&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subham2507&layout=compact&theme=radical&hide_border=true)
+<!-- Using GitHubProfileStats -->
+![Stats](https://github-profile-trophy.vercel.app/?username=Subham2507&theme=radical)
+
+<!-- Using simple GitHub Stats -->
+[![Subham's GitHub stats](https://github-readme-stats-git-main-subham2507.vercel.app/api?username=Subham2507&show_icons=true&theme=radical)](https://github.com/subham2507)
 <!-- [![Subham's's GitHub Stats] -->
 
 
