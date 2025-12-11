@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines= নমস্কার + (Namaste) +🙏🏻+,+I'm+Subham+!;I'm%20always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=82e2da&vCenter=true&pause=1000&size=22" /></a> </h1>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=নমস্কার+(Namaste)+🙏🏻;I'm+always+learning+new+things+:)&font=Fira+Code&center=true&width=440&height=45&color=82e2da&vCenter=true&pause=1000&size=22" />
 <br>
 <p><em>Striving to become a better contributor &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
