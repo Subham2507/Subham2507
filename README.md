@@ -77,8 +77,7 @@ Here are some ideas to get you started:
 <!-- [![Subham's's GitHub Stats] -->
 
 
-<p align="center"> 
-  Visitors count
-  <br>
-  <img src="https://profile-counter.glitch.me/Subham2507/count.svg" />
+<p align="center">
+  Visitors count<br>
+  <img src="https://komarev.com/ghpvc/?username=Subham2507&color=blueviolet" alt="Profile Views" />
 </p>
