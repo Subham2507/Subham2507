@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 </em></p>
 
 
-- 👋 Hi, I’m @Subham2507 pursuing a Ph.D. in Data Science and AI at IIT Roorkee.
+- 👋 Hi, I’m @Subham2507, pursuing a PhD in Data Science and AI at IIT Roorkee.
 - I graduated from IIT MANDI with a major in physics.
--  Additionally, I co-founded Eva Ad Ventures.
-- 👀 I’m interested in AI, Deep Learning, ML, Quantum and astronomy. 
+- 👀 I’m interested in AI, Deep Learning, ML, Materials Informatics, Quantum and astronomy. 
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Open Source Projects!
 - 💬 Ask me about 🤷‍
-- 📫 How to reach me email - ghoshsubham2507@gmail.com
+- 📫 How to reach me: email - ghoshsubham2507@gmail.com & subham_g1@mfs.iitr.ac.in
+- Additionally, I co-founded Eva Ad Ventures. ( Left May 2025)
 - <a href="https://www.linkedin.com/in/subham2507/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Subham" height="20" width="15" /></a>
 
 ## 🛠️ Tools & Statistics 
